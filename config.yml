@@ -1,0 +1,4 @@
+logging:
+  level: INFO
+  loggers:
+    Assignment_LeanIx_TO_DO: DEBUG
